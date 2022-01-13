@@ -8,3 +8,4 @@ slide.changeSlide(3)
 slide.activePrevSlide()
 
 slide.addArrow('.prev', '.next')
+slide.addControl()
